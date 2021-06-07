@@ -3,6 +3,7 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+/ServerData/
 .gradle*
 /Assets/StreamingAssets*
 /Assets/ThirdParty*
